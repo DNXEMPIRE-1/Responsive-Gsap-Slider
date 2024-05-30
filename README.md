@@ -11,7 +11,7 @@ Welcome to the **Responsive GSAP Slider** project! This project features a sleek
 
 ## 📸 Preview
 
-![Slider Preview](https://via.placeholder.com/800x400.png?text=Responsive+GSAP+Slider)
+![Slider Preview](https://github.com/DNXEMPIRE-1/Responsive-Gsap-Slider/blob/main/rga.png)
 
 ## 🚀 Getting Started
 
